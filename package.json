@@ -4,8 +4,8 @@
   "description": "Interactive animation practice",
   "private": true,
   "scripts": {
-    "start": "serve .",
-    "build": "echo 'No build step needed'"
+    "start": "serve public",
+    "build": "cp -r public/* ."
   },
   "dependencies": {
     "serve": "^14.0.0"
