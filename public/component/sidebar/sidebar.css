@@ -6,11 +6,17 @@
   padding: 20px;
 }
 
-.sidebar a {
-  color: white;
-  text-decoration: none;
-  padding: 10px;
-  display: block;
-  margin-bottom: 5px;
-  border-radius: 5px;
+@media screen and (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    height: 60px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+  }
+
+  .sidebar a {
+    margin-right: 15px;
+    margin-bottom: 0;
+  }
 }
