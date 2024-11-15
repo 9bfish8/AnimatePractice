@@ -13,12 +13,11 @@
   <iframe name="content-frame" src="pages/GSAP/GSAP.html"></iframe>
 </div>
 <script>
-  const basePath = window.location.origin + '/AnimatePractice';
-  fetch(basePath + '/component/sidebar/sidebar.html')
-    .then(response => response.text())
-    .then(data => {
-      document.getElementById('sidebar-container').innerHTML = data;
-    });
+  fetch('component/sidebar/sidebar.html')
+          .then(response => response.text())
+          .then(data => {
+            document.getElementById('sidebar-container').innerHTML = data;
+          });
 </script>
 </body>
 </html>
