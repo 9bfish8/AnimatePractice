@@ -15,7 +15,8 @@
 - CSS3
 - JavaScript (ES6+)
 - GSAP 
-- Anime.js (애니메이션은 점점 추가 될 예정)
+- Anime.js 
+- Three.js (애니메이션은 점점 추가 될 예정)
 
 ## 🎬 구현된 애니메이션
 ### [GSAP 파티클 애니메이션](public/pages/GSAP/GSAP.md)
@@ -27,6 +28,11 @@
 - SVG 패스 드로잉
 - 동적 모핑 효과
 - 글로우/스파클 이펙트
+
+### [Three.js Galaxy Animation](public/pages/Three/Three.md)
+- 인터랙티브 우주 시스템
+- 다층 파티클 효과 (은하, 성운, 오로라)
+- 실시간 쉐이더 기반 별 반짝임
 
 > 개발자 모드 요소창을 열면.. 엄청나게 열일하고 있는 아이들이 잇서여..
 
