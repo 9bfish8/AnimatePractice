@@ -14,7 +14,8 @@
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- GSAP (애니메이션은 점점 추가 될 예정)
+- GSAP 
+- Anime.js (애니메이션은 점점 추가 될 예정)
 
 ## 🎬 구현된 애니메이션
 ### [GSAP 파티클 애니메이션](public/pages/GSAP/GSAP.md)
