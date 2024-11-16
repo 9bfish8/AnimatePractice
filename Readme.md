@@ -22,7 +22,7 @@
 - 인터랙티브 효과
 - 도형 및 텍스트 애니메이션
 
-### [Anime SVG 애니메이션](pages/Anime/Anime.md)
+### [Anime SVG 애니메이션](public/pages/Anime/Anime.md)
 - SVG 패스 드로잉
 - 동적 모핑 효과
 - 글로우/스파클 이펙트
