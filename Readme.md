@@ -16,7 +16,8 @@
 - JavaScript (ES6+)
 - GSAP 
 - Anime.js 
-- Three.js (애니메이션은 점점 추가 될 예정)
+- Three.js
+- Lottie (애니메이션은 점점 추가 될 예정)
 
 ## 🎬 구현된 애니메이션
 ### [GSAP 파티클 애니메이션](public/pages/GSAP/GSAP.md)
